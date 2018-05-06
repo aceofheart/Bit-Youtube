@@ -155,7 +155,7 @@ export class Main extends Component {
                     </div>
 
                     <div className="youtube-list col-lg-3 col-md-4 col-sm-12">
-                        <h2>Suggested videos</h2>
+                        <h4>Suggested videos</h4>
                         {this.renderSuggestedVideo()}
                     </div>
                 </div>

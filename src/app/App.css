@@ -74,7 +74,7 @@ h4{
 }
 
 /* suggested list */
-h2{
+h4{
   padding-left: 20px;
   margin-bottom: 5px;
   font-size: 1.2em;
@@ -132,7 +132,7 @@ h6:hover{
   .youtube-list-item{
     width:33%
   }
-  .youtube-list h2{
+  .youtube-list h4{
     margin-right: 55%
   }
 }
@@ -140,7 +140,7 @@ h6:hover{
   .youtube-list-item{
     width:45%
   }
-  .youtube-list h2{
+  .youtube-list h4{
     margin-right: 45%
   }
 }
@@ -169,7 +169,7 @@ a:hover{
   .youtube-list-item-history{
     width:33%
   }
-  .youtube-history h2{
+  .youtube-history h4{
     margin-right: 55%
   }
 }
@@ -177,7 +177,7 @@ a:hover{
   .youtube-list-item-history{
     width:45%
   }
-  .youtube-list h2{
+  .youtube-list h4{
     margin-right: 45%
   }
 }

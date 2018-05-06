@@ -6,7 +6,7 @@ export const HistoryList = ({previous,selected,play}) =>{
  
     return (
             <Fragment>
-                  <h2>Watch it again</h2> 
+                  <h4>Watch it again</h4> 
                   {previousVideosList.map((video,i) =>{
                         return <HistoryListItem video={video} key={i} play={play}/>
                   })}
