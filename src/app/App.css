@@ -1,18 +1,14 @@
 * {
- 
   box-sizing: border-box;
   font-family: "Ubuntu", sans-serif;
 }
 html,body{
   height: 100%;
- 
 }
 #wrap {
   min-height: 100%;
   height: auto;
-  /* Negative indent footer by its height */
   margin: 0 auto -40px;
-  /* Pad bottom by footer height */
   padding: 0 0 40px;
 }
 
@@ -92,7 +88,8 @@ h4{
   border-bottom: 1px solid #dfdfdf;
   padding: 12px;
   padding-bottom: 5px;
-  text-decoration: none
+  text-decoration: none;
+  color: grey
  
 }
 .youtube-list-item:hover{
@@ -162,7 +159,8 @@ a:hover{
  display: flex;
  flex-direction: column;
  justify-content: flex-start;
- padding: 5px 
+ padding: 5px;
+  
 }
 @media only screen and (max-width: 768px){
   .youtube-history{
