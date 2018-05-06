@@ -184,7 +184,9 @@ a:hover{
 .youtube-list-item-history{
   border-bottom: 1px solid #dfdfdf;
   padding: 12px;
-  padding-bottom: 5px
+  padding-bottom: 5px;
+  text-decoration: none;
+  color: grey
 }
 
 .youtube-list-item-history > img{
