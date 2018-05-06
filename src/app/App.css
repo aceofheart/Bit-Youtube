@@ -50,6 +50,7 @@ button:hover{
   padding-top: 35px;
   height: 0;
   overflow: hidden;
+  margin-bottom: 10px
 }
 .main-video iframe{
   position: absolute;
@@ -90,7 +91,8 @@ h4{
 .youtube-list-item{
   border-bottom: 1px solid #dfdfdf;
   padding: 12px;
-  padding-bottom: 5px
+  padding-bottom: 5px;
+  text-decoration: none
  
 }
 .youtube-list-item:hover{
@@ -99,6 +101,7 @@ h4{
 .youtube-list-item > img{
    width:100%;
    height: auto;
+   margin-bottom: 10px;
    border-bottom: 4px solid rgb(94, 11, 11)
  }
 .youtube-list-item > img:hover{
@@ -192,6 +195,7 @@ a:hover{
 .youtube-list-item-history > img{
   width:100%;
   height: auto;
+  margin-bottom: 10px;
   border-bottom: 4px solid rgb(94, 11, 11)
 }
 
